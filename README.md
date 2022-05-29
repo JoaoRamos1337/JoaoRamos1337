@@ -1,7 +1,7 @@
 ### Olá! Bem Vindos ao meu GitHub meus primos e primas Dev's!
 
 - 🤖 Atualmente estou desenvolvendo projetos pessoais!
-- 💻 Procurando meu primeiro Trabalho como Dev
+- 💻 Procurando meu primeiro trabalho como Desenvolver
 - 💬 Falem comigo, eu não mordo, eu desenvolvo! 🗝🗝🗝🗝
 - 📫 Meus contatos:
 
