@@ -1,9 +1,9 @@
 ### Olá! Bem Vindos ao meu GitHub meus primos e primas Dev's!
 
-- 🔭 I’m currently working on my personal projects
-- 🌱 I’m currently learning technologys by front-end
-- 💬 Talk to me about interesting things (tech, books, engenering, sustentability)
-- 📫 How to reach me: ...
+- 🤖 Atualmente estou desenvolvendo projetos pessoais!
+- 💻 Procurando meu primeiro Trabalho como Dev
+- 💬 Falem comigo, eu não mordo, eu desenvolvo! 🗝🗝🗝🗝
+- 📫 Meus contatos:
 
 <div>
     <div> 
