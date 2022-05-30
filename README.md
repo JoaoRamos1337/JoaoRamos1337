@@ -2,7 +2,7 @@
 
 - 🤖 Atualmente estou desenvolvendo projetos pessoais!
 - 💻 Procurando meu primeiro trabalho como Desenvolver
-- 💬 Falem comigo, eu não mordo, eu desenvolvo! 🗝🗝🗝🗝
+- 💬 Acredito que compartilhar conhecimento é a chave.
 - 📫 Meus contatos:
 
 <div>
