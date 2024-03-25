@@ -1,7 +1,7 @@
 ### Olá! Bem Vindos ao meu GitHub meus primos e primas Dev's!
 
 - 🤖 Atualmente estou desenvolvendo projetos pessoais!
-- 💻 Procurando meu primeiro trabalho como Desenvolvedor.
+- 💻 Procurando meu primeiro trabalho como Analista de Dados.
 - 💬 Acredito que compartilhar conhecimento é a chave.
 - 📫 Meus contatos:
 
@@ -12,11 +12,11 @@
   <a href="https://www.linkedin.com/in/jo%C3%A3oramos1773/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
   
-<div style="display: inline_block"><br>
-  <img align="center" alt="JR-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="JR-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="JR-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="JR-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+<div style="display: flex; align-items: center;">
+  <img align="center" alt="SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Power BI" height="30" width="40" src="https://www.vectorlogo.zone/logos/powerbi/powerbi-icon.svg">
+  <img align="center" alt="Excel" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/microsoft-excel.svg">
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
 <div align="center">
